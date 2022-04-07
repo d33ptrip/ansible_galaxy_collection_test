@@ -1,3 +1,6 @@
-namespace: "gowno"
-name: "gowno"
+namespace: "Test"
+name: "Debug"
+authors: "Michal Przybyl"
+version: 0.1
+readme: "Nope"
 
